@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\01. MarketPlace\04. FoodOrDrink\bin\Debug\net6.0\04. FoodOrDrink.exe
+D:\Visual Studio Projects\01. MarketPlace\04. FoodOrDrink\bin\Debug\net6.0\04. FoodOrDrink.deps.json
+D:\Visual Studio Projects\01. MarketPlace\04. FoodOrDrink\bin\Debug\net6.0\04. FoodOrDrink.runtimeconfig.json
+D:\Visual Studio Projects\01. MarketPlace\04. FoodOrDrink\bin\Debug\net6.0\04. FoodOrDrink.dll
+D:\Visual Studio Projects\01. MarketPlace\04. FoodOrDrink\bin\Debug\net6.0\04. FoodOrDrink.pdb
+D:\Visual Studio Projects\01. MarketPlace\04. FoodOrDrink\obj\Debug\net6.0\04. FoodOrDrink.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\01. MarketPlace\04. FoodOrDrink\obj\Debug\net6.0\04. FoodOrDrink.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\01. MarketPlace\04. FoodOrDrink\obj\Debug\net6.0\04. FoodOrDrink.AssemblyInfo.cs
+D:\Visual Studio Projects\01. MarketPlace\04. FoodOrDrink\obj\Debug\net6.0\04. FoodOrDrink.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\01. MarketPlace\04. FoodOrDrink\obj\Debug\net6.0\04. FoodOrDrink.dll
+D:\Visual Studio Projects\01. MarketPlace\04. FoodOrDrink\obj\Debug\net6.0\refint\04. FoodOrDrink.dll
+D:\Visual Studio Projects\01. MarketPlace\04. FoodOrDrink\obj\Debug\net6.0\04. FoodOrDrink.pdb
+D:\Visual Studio Projects\01. MarketPlace\04. FoodOrDrink\obj\Debug\net6.0\04. FoodOrDrink.genruntimeconfig.cache
+D:\Visual Studio Projects\01. MarketPlace\04. FoodOrDrink\obj\Debug\net6.0\ref\04. FoodOrDrink.dll

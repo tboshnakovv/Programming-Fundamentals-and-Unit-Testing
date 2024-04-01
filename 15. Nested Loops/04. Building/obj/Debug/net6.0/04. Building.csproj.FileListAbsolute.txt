@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\15. Nested Loops\04. Building\bin\Debug\net6.0\04. Building.exe
+D:\Visual Studio Projects\15. Nested Loops\04. Building\bin\Debug\net6.0\04. Building.deps.json
+D:\Visual Studio Projects\15. Nested Loops\04. Building\bin\Debug\net6.0\04. Building.runtimeconfig.json
+D:\Visual Studio Projects\15. Nested Loops\04. Building\bin\Debug\net6.0\04. Building.dll
+D:\Visual Studio Projects\15. Nested Loops\04. Building\bin\Debug\net6.0\04. Building.pdb
+D:\Visual Studio Projects\15. Nested Loops\04. Building\obj\Debug\net6.0\04. Building.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\15. Nested Loops\04. Building\obj\Debug\net6.0\04. Building.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\15. Nested Loops\04. Building\obj\Debug\net6.0\04. Building.AssemblyInfo.cs
+D:\Visual Studio Projects\15. Nested Loops\04. Building\obj\Debug\net6.0\04. Building.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\15. Nested Loops\04. Building\obj\Debug\net6.0\04. Building.dll
+D:\Visual Studio Projects\15. Nested Loops\04. Building\obj\Debug\net6.0\refint\04. Building.dll
+D:\Visual Studio Projects\15. Nested Loops\04. Building\obj\Debug\net6.0\04. Building.pdb
+D:\Visual Studio Projects\15. Nested Loops\04. Building\obj\Debug\net6.0\04. Building.genruntimeconfig.cache
+D:\Visual Studio Projects\15. Nested Loops\04. Building\obj\Debug\net6.0\ref\04. Building.dll

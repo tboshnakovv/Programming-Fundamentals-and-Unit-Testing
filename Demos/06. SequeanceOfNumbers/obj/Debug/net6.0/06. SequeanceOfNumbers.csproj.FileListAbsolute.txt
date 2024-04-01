@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\Demos\06. SequeanceOfNumbers\bin\Debug\net6.0\06. SequeanceOfNumbers.exe
+D:\Visual Studio Projects\Demos\06. SequeanceOfNumbers\bin\Debug\net6.0\06. SequeanceOfNumbers.deps.json
+D:\Visual Studio Projects\Demos\06. SequeanceOfNumbers\bin\Debug\net6.0\06. SequeanceOfNumbers.runtimeconfig.json
+D:\Visual Studio Projects\Demos\06. SequeanceOfNumbers\bin\Debug\net6.0\06. SequeanceOfNumbers.dll
+D:\Visual Studio Projects\Demos\06. SequeanceOfNumbers\bin\Debug\net6.0\06. SequeanceOfNumbers.pdb
+D:\Visual Studio Projects\Demos\06. SequeanceOfNumbers\obj\Debug\net6.0\06. SequeanceOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Demos\06. SequeanceOfNumbers\obj\Debug\net6.0\06. SequeanceOfNumbers.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Demos\06. SequeanceOfNumbers\obj\Debug\net6.0\06. SequeanceOfNumbers.AssemblyInfo.cs
+D:\Visual Studio Projects\Demos\06. SequeanceOfNumbers\obj\Debug\net6.0\06. SequeanceOfNumbers.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Demos\06. SequeanceOfNumbers\obj\Debug\net6.0\06. SequeanceOfNumbers.dll
+D:\Visual Studio Projects\Demos\06. SequeanceOfNumbers\obj\Debug\net6.0\refint\06. SequeanceOfNumbers.dll
+D:\Visual Studio Projects\Demos\06. SequeanceOfNumbers\obj\Debug\net6.0\06. SequeanceOfNumbers.pdb
+D:\Visual Studio Projects\Demos\06. SequeanceOfNumbers\obj\Debug\net6.0\06. SequeanceOfNumbers.genruntimeconfig.cache
+D:\Visual Studio Projects\Demos\06. SequeanceOfNumbers\obj\Debug\net6.0\ref\06. SequeanceOfNumbers.dll

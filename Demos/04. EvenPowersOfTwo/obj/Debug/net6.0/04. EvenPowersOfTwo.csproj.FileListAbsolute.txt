@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\Demos\04. EvenPowersOfTwo\bin\Debug\net6.0\04. EvenPowersOfTwo.exe
+D:\Visual Studio Projects\Demos\04. EvenPowersOfTwo\bin\Debug\net6.0\04. EvenPowersOfTwo.deps.json
+D:\Visual Studio Projects\Demos\04. EvenPowersOfTwo\bin\Debug\net6.0\04. EvenPowersOfTwo.runtimeconfig.json
+D:\Visual Studio Projects\Demos\04. EvenPowersOfTwo\bin\Debug\net6.0\04. EvenPowersOfTwo.dll
+D:\Visual Studio Projects\Demos\04. EvenPowersOfTwo\bin\Debug\net6.0\04. EvenPowersOfTwo.pdb
+D:\Visual Studio Projects\Demos\04. EvenPowersOfTwo\obj\Debug\net6.0\04. EvenPowersOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Demos\04. EvenPowersOfTwo\obj\Debug\net6.0\04. EvenPowersOfTwo.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Demos\04. EvenPowersOfTwo\obj\Debug\net6.0\04. EvenPowersOfTwo.AssemblyInfo.cs
+D:\Visual Studio Projects\Demos\04. EvenPowersOfTwo\obj\Debug\net6.0\04. EvenPowersOfTwo.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Demos\04. EvenPowersOfTwo\obj\Debug\net6.0\04. EvenPowersOfTwo.dll
+D:\Visual Studio Projects\Demos\04. EvenPowersOfTwo\obj\Debug\net6.0\refint\04. EvenPowersOfTwo.dll
+D:\Visual Studio Projects\Demos\04. EvenPowersOfTwo\obj\Debug\net6.0\04. EvenPowersOfTwo.pdb
+D:\Visual Studio Projects\Demos\04. EvenPowersOfTwo\obj\Debug\net6.0\04. EvenPowersOfTwo.genruntimeconfig.cache
+D:\Visual Studio Projects\Demos\04. EvenPowersOfTwo\obj\Debug\net6.0\ref\04. EvenPowersOfTwo.dll

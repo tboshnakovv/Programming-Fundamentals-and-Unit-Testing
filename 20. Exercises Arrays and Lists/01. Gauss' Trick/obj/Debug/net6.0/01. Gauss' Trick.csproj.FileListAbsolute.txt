@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\20. Exercises Arrays and Lists\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.exe
+D:\Visual Studio Projects\20. Exercises Arrays and Lists\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.deps.json
+D:\Visual Studio Projects\20. Exercises Arrays and Lists\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.runtimeconfig.json
+D:\Visual Studio Projects\20. Exercises Arrays and Lists\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.dll
+D:\Visual Studio Projects\20. Exercises Arrays and Lists\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.pdb
+D:\Visual Studio Projects\20. Exercises Arrays and Lists\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\20. Exercises Arrays and Lists\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\20. Exercises Arrays and Lists\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.AssemblyInfo.cs
+D:\Visual Studio Projects\20. Exercises Arrays and Lists\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\20. Exercises Arrays and Lists\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.dll
+D:\Visual Studio Projects\20. Exercises Arrays and Lists\01. Gauss' Trick\obj\Debug\net6.0\refint\01. Gauss' Trick.dll
+D:\Visual Studio Projects\20. Exercises Arrays and Lists\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.pdb
+D:\Visual Studio Projects\20. Exercises Arrays and Lists\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.genruntimeconfig.cache
+D:\Visual Studio Projects\20. Exercises Arrays and Lists\01. Gauss' Trick\obj\Debug\net6.0\ref\01. Gauss' Trick.dll

@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\04. LetterCombinations\bin\Debug\net6.0\04. LetterCombinations.exe
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\04. LetterCombinations\bin\Debug\net6.0\04. LetterCombinations.deps.json
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\04. LetterCombinations\bin\Debug\net6.0\04. LetterCombinations.runtimeconfig.json
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\04. LetterCombinations\bin\Debug\net6.0\04. LetterCombinations.dll
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\04. LetterCombinations\bin\Debug\net6.0\04. LetterCombinations.pdb
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\04. LetterCombinations\obj\Debug\net6.0\04. LetterCombinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\04. LetterCombinations\obj\Debug\net6.0\04. LetterCombinations.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\04. LetterCombinations\obj\Debug\net6.0\04. LetterCombinations.AssemblyInfo.cs
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\04. LetterCombinations\obj\Debug\net6.0\04. LetterCombinations.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\04. LetterCombinations\obj\Debug\net6.0\04. LetterCombinations.dll
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\04. LetterCombinations\obj\Debug\net6.0\refint\04. LetterCombinations.dll
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\04. LetterCombinations\obj\Debug\net6.0\04. LetterCombinations.pdb
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\04. LetterCombinations\obj\Debug\net6.0\04. LetterCombinations.genruntimeconfig.cache
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\04. LetterCombinations\obj\Debug\net6.0\ref\04. LetterCombinations.dll

@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\FirstHelloWorldApp\FirstHelloWorldApp\bin\Debug\net6.0\FirstHelloWorldApp.exe
+D:\Visual Studio Projects\FirstHelloWorldApp\FirstHelloWorldApp\bin\Debug\net6.0\FirstHelloWorldApp.deps.json
+D:\Visual Studio Projects\FirstHelloWorldApp\FirstHelloWorldApp\bin\Debug\net6.0\FirstHelloWorldApp.runtimeconfig.json
+D:\Visual Studio Projects\FirstHelloWorldApp\FirstHelloWorldApp\bin\Debug\net6.0\FirstHelloWorldApp.dll
+D:\Visual Studio Projects\FirstHelloWorldApp\FirstHelloWorldApp\bin\Debug\net6.0\FirstHelloWorldApp.pdb
+D:\Visual Studio Projects\FirstHelloWorldApp\FirstHelloWorldApp\obj\Debug\net6.0\FirstHelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\FirstHelloWorldApp\FirstHelloWorldApp\obj\Debug\net6.0\FirstHelloWorldApp.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\FirstHelloWorldApp\FirstHelloWorldApp\obj\Debug\net6.0\FirstHelloWorldApp.AssemblyInfo.cs
+D:\Visual Studio Projects\FirstHelloWorldApp\FirstHelloWorldApp\obj\Debug\net6.0\FirstHelloWorldApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FirstHelloWorldApp\FirstHelloWorldApp\obj\Debug\net6.0\FirstHelloWorldApp.dll
+D:\Visual Studio Projects\FirstHelloWorldApp\FirstHelloWorldApp\obj\Debug\net6.0\refint\FirstHelloWorldApp.dll
+D:\Visual Studio Projects\FirstHelloWorldApp\FirstHelloWorldApp\obj\Debug\net6.0\FirstHelloWorldApp.pdb
+D:\Visual Studio Projects\FirstHelloWorldApp\FirstHelloWorldApp\obj\Debug\net6.0\FirstHelloWorldApp.genruntimeconfig.cache
+D:\Visual Studio Projects\FirstHelloWorldApp\FirstHelloWorldApp\obj\Debug\net6.0\ref\FirstHelloWorldApp.dll

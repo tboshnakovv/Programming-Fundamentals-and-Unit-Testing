@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\UsdToBgn\06.Redecorating\bin\Debug\net6.0\06.Redecorating.exe
+D:\Visual Studio Projects\UsdToBgn\06.Redecorating\bin\Debug\net6.0\06.Redecorating.deps.json
+D:\Visual Studio Projects\UsdToBgn\06.Redecorating\bin\Debug\net6.0\06.Redecorating.runtimeconfig.json
+D:\Visual Studio Projects\UsdToBgn\06.Redecorating\bin\Debug\net6.0\06.Redecorating.dll
+D:\Visual Studio Projects\UsdToBgn\06.Redecorating\bin\Debug\net6.0\06.Redecorating.pdb
+D:\Visual Studio Projects\UsdToBgn\06.Redecorating\obj\Debug\net6.0\06.Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\UsdToBgn\06.Redecorating\obj\Debug\net6.0\06.Redecorating.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\UsdToBgn\06.Redecorating\obj\Debug\net6.0\06.Redecorating.AssemblyInfo.cs
+D:\Visual Studio Projects\UsdToBgn\06.Redecorating\obj\Debug\net6.0\06.Redecorating.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\UsdToBgn\06.Redecorating\obj\Debug\net6.0\06.Redecorating.dll
+D:\Visual Studio Projects\UsdToBgn\06.Redecorating\obj\Debug\net6.0\refint\06.Redecorating.dll
+D:\Visual Studio Projects\UsdToBgn\06.Redecorating\obj\Debug\net6.0\06.Redecorating.pdb
+D:\Visual Studio Projects\UsdToBgn\06.Redecorating\obj\Debug\net6.0\06.Redecorating.genruntimeconfig.cache
+D:\Visual Studio Projects\UsdToBgn\06.Redecorating\obj\Debug\net6.0\ref\06.Redecorating.dll

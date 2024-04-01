@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "11. CoffeeShop/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/11. CoffeeShop.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/11. CoffeeShop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11. CoffeeShop/1.0.0": {
+      "type": "project",
+      "path": "../11. CoffeeShop/11. CoffeeShop.csproj",
+      "msbuildProject": "../11. CoffeeShop/11. CoffeeShop.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "11. CoffeeShop >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sanny\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Visual Studio Projects\\01. FreezingWeather\\3. Number 1…9 as Words\\3. Number 1…9 as Words.csproj",
+      "projectName": "3. Number 1…9 as Words",
+      "projectPath": "D:\\Visual Studio Projects\\01. FreezingWeather\\3. Number 1…9 as Words\\3. Number 1…9 as Words.csproj",
+      "packagesPath": "C:\\Users\\sanny\\.nuget\\packages\\",
+      "outputPath": "D:\\Visual Studio Projects\\01. FreezingWeather\\3. Number 1…9 as Words\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\sanny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Visual Studio Projects\\01. FreezingWeather\\11. CoffeeShop\\11. CoffeeShop.csproj": {
+              "projectPath": "D:\\Visual Studio Projects\\01. FreezingWeather\\11. CoffeeShop\\11. CoffeeShop.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

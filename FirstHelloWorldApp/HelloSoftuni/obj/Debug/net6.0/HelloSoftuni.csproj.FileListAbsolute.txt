@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\FirstHelloWorldApp\HelloSoftuni\bin\Debug\net6.0\HelloSoftuni.exe
+D:\Visual Studio Projects\FirstHelloWorldApp\HelloSoftuni\bin\Debug\net6.0\HelloSoftuni.deps.json
+D:\Visual Studio Projects\FirstHelloWorldApp\HelloSoftuni\bin\Debug\net6.0\HelloSoftuni.runtimeconfig.json
+D:\Visual Studio Projects\FirstHelloWorldApp\HelloSoftuni\bin\Debug\net6.0\HelloSoftuni.dll
+D:\Visual Studio Projects\FirstHelloWorldApp\HelloSoftuni\bin\Debug\net6.0\HelloSoftuni.pdb
+D:\Visual Studio Projects\FirstHelloWorldApp\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\FirstHelloWorldApp\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\FirstHelloWorldApp\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.AssemblyInfo.cs
+D:\Visual Studio Projects\FirstHelloWorldApp\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FirstHelloWorldApp\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.dll
+D:\Visual Studio Projects\FirstHelloWorldApp\HelloSoftuni\obj\Debug\net6.0\refint\HelloSoftuni.dll
+D:\Visual Studio Projects\FirstHelloWorldApp\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.pdb
+D:\Visual Studio Projects\FirstHelloWorldApp\HelloSoftuni\obj\Debug\net6.0\HelloSoftuni.genruntimeconfig.cache
+D:\Visual Studio Projects\FirstHelloWorldApp\HelloSoftuni\obj\Debug\net6.0\ref\HelloSoftuni.dll

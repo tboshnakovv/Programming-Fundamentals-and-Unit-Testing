@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\T01.CINEMA\T02. summerClothing\bin\Debug\net6.0\T02. summerClothing.exe
+D:\Visual Studio Projects\T01.CINEMA\T02. summerClothing\bin\Debug\net6.0\T02. summerClothing.deps.json
+D:\Visual Studio Projects\T01.CINEMA\T02. summerClothing\bin\Debug\net6.0\T02. summerClothing.runtimeconfig.json
+D:\Visual Studio Projects\T01.CINEMA\T02. summerClothing\bin\Debug\net6.0\T02. summerClothing.dll
+D:\Visual Studio Projects\T01.CINEMA\T02. summerClothing\bin\Debug\net6.0\T02. summerClothing.pdb
+D:\Visual Studio Projects\T01.CINEMA\T02. summerClothing\obj\Debug\net6.0\T02. summerClothing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\T01.CINEMA\T02. summerClothing\obj\Debug\net6.0\T02. summerClothing.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\T01.CINEMA\T02. summerClothing\obj\Debug\net6.0\T02. summerClothing.AssemblyInfo.cs
+D:\Visual Studio Projects\T01.CINEMA\T02. summerClothing\obj\Debug\net6.0\T02. summerClothing.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\T01.CINEMA\T02. summerClothing\obj\Debug\net6.0\T02. summerClothing.dll
+D:\Visual Studio Projects\T01.CINEMA\T02. summerClothing\obj\Debug\net6.0\refint\T02. summerClothing.dll
+D:\Visual Studio Projects\T01.CINEMA\T02. summerClothing\obj\Debug\net6.0\T02. summerClothing.pdb
+D:\Visual Studio Projects\T01.CINEMA\T02. summerClothing\obj\Debug\net6.0\T02. summerClothing.genruntimeconfig.cache
+D:\Visual Studio Projects\T01.CINEMA\T02. summerClothing\obj\Debug\net6.0\ref\T02. summerClothing.dll

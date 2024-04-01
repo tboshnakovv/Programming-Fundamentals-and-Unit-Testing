@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\UsdToBgn\TeachengMaterials\bin\Debug\net6.0\TeachingMaterials.exe
+D:\Visual Studio Projects\UsdToBgn\TeachengMaterials\bin\Debug\net6.0\TeachingMaterials.deps.json
+D:\Visual Studio Projects\UsdToBgn\TeachengMaterials\bin\Debug\net6.0\TeachingMaterials.runtimeconfig.json
+D:\Visual Studio Projects\UsdToBgn\TeachengMaterials\bin\Debug\net6.0\TeachingMaterials.dll
+D:\Visual Studio Projects\UsdToBgn\TeachengMaterials\bin\Debug\net6.0\TeachingMaterials.pdb
+D:\Visual Studio Projects\UsdToBgn\TeachengMaterials\obj\Debug\net6.0\TeachingMaterials.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\UsdToBgn\TeachengMaterials\obj\Debug\net6.0\TeachingMaterials.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\UsdToBgn\TeachengMaterials\obj\Debug\net6.0\TeachingMaterials.AssemblyInfo.cs
+D:\Visual Studio Projects\UsdToBgn\TeachengMaterials\obj\Debug\net6.0\TeachingMaterials.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\UsdToBgn\TeachengMaterials\obj\Debug\net6.0\TeachingMaterials.dll
+D:\Visual Studio Projects\UsdToBgn\TeachengMaterials\obj\Debug\net6.0\refint\TeachingMaterials.dll
+D:\Visual Studio Projects\UsdToBgn\TeachengMaterials\obj\Debug\net6.0\TeachingMaterials.pdb
+D:\Visual Studio Projects\UsdToBgn\TeachengMaterials\obj\Debug\net6.0\TeachingMaterials.genruntimeconfig.cache
+D:\Visual Studio Projects\UsdToBgn\TeachengMaterials\obj\Debug\net6.0\ref\TeachingMaterials.dll

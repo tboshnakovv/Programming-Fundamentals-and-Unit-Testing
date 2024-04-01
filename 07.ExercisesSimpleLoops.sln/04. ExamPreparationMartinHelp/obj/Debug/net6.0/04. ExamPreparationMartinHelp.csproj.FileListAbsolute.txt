@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\01.NumbersEndingIn7\04. ExamPreparationMartinHelp\bin\Debug\net6.0\04. ExamPreparationMartinHelp.exe
+D:\Visual Studio Projects\01.NumbersEndingIn7\04. ExamPreparationMartinHelp\bin\Debug\net6.0\04. ExamPreparationMartinHelp.deps.json
+D:\Visual Studio Projects\01.NumbersEndingIn7\04. ExamPreparationMartinHelp\bin\Debug\net6.0\04. ExamPreparationMartinHelp.runtimeconfig.json
+D:\Visual Studio Projects\01.NumbersEndingIn7\04. ExamPreparationMartinHelp\bin\Debug\net6.0\04. ExamPreparationMartinHelp.dll
+D:\Visual Studio Projects\01.NumbersEndingIn7\04. ExamPreparationMartinHelp\bin\Debug\net6.0\04. ExamPreparationMartinHelp.pdb
+D:\Visual Studio Projects\01.NumbersEndingIn7\04. ExamPreparationMartinHelp\obj\Debug\net6.0\04. ExamPreparationMartinHelp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\01.NumbersEndingIn7\04. ExamPreparationMartinHelp\obj\Debug\net6.0\04. ExamPreparationMartinHelp.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\01.NumbersEndingIn7\04. ExamPreparationMartinHelp\obj\Debug\net6.0\04. ExamPreparationMartinHelp.AssemblyInfo.cs
+D:\Visual Studio Projects\01.NumbersEndingIn7\04. ExamPreparationMartinHelp\obj\Debug\net6.0\04. ExamPreparationMartinHelp.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\01.NumbersEndingIn7\04. ExamPreparationMartinHelp\obj\Debug\net6.0\04. ExamPreparationMartinHelp.dll
+D:\Visual Studio Projects\01.NumbersEndingIn7\04. ExamPreparationMartinHelp\obj\Debug\net6.0\refint\04. ExamPreparationMartinHelp.dll
+D:\Visual Studio Projects\01.NumbersEndingIn7\04. ExamPreparationMartinHelp\obj\Debug\net6.0\04. ExamPreparationMartinHelp.pdb
+D:\Visual Studio Projects\01.NumbersEndingIn7\04. ExamPreparationMartinHelp\obj\Debug\net6.0\04. ExamPreparationMartinHelp.genruntimeconfig.cache
+D:\Visual Studio Projects\01.NumbersEndingIn7\04. ExamPreparationMartinHelp\obj\Debug\net6.0\ref\04. ExamPreparationMartinHelp.dll

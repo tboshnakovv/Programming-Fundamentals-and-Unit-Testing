@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\01. NumberPyramid\01. NumberPyramid\bin\Debug\net6.0\01. NumberPyramid.exe
+D:\Visual Studio Projects\01. NumberPyramid\01. NumberPyramid\bin\Debug\net6.0\01. NumberPyramid.deps.json
+D:\Visual Studio Projects\01. NumberPyramid\01. NumberPyramid\bin\Debug\net6.0\01. NumberPyramid.runtimeconfig.json
+D:\Visual Studio Projects\01. NumberPyramid\01. NumberPyramid\bin\Debug\net6.0\01. NumberPyramid.dll
+D:\Visual Studio Projects\01. NumberPyramid\01. NumberPyramid\bin\Debug\net6.0\01. NumberPyramid.pdb
+D:\Visual Studio Projects\01. NumberPyramid\01. NumberPyramid\obj\Debug\net6.0\01. NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\01. NumberPyramid\01. NumberPyramid\obj\Debug\net6.0\01. NumberPyramid.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\01. NumberPyramid\01. NumberPyramid\obj\Debug\net6.0\01. NumberPyramid.AssemblyInfo.cs
+D:\Visual Studio Projects\01. NumberPyramid\01. NumberPyramid\obj\Debug\net6.0\01. NumberPyramid.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\01. NumberPyramid\01. NumberPyramid\obj\Debug\net6.0\01. NumberPyramid.dll
+D:\Visual Studio Projects\01. NumberPyramid\01. NumberPyramid\obj\Debug\net6.0\refint\01. NumberPyramid.dll
+D:\Visual Studio Projects\01. NumberPyramid\01. NumberPyramid\obj\Debug\net6.0\01. NumberPyramid.pdb
+D:\Visual Studio Projects\01. NumberPyramid\01. NumberPyramid\obj\Debug\net6.0\01. NumberPyramid.genruntimeconfig.cache
+D:\Visual Studio Projects\01. NumberPyramid\01. NumberPyramid\obj\Debug\net6.0\ref\01. NumberPyramid.dll

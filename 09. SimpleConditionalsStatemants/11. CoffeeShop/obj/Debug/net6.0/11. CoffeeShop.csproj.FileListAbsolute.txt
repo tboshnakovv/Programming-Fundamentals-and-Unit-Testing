@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\01. FreezingWeather\11. CoffeeShop\bin\Debug\net6.0\11. CoffeeShop.exe
+D:\Visual Studio Projects\01. FreezingWeather\11. CoffeeShop\bin\Debug\net6.0\11. CoffeeShop.deps.json
+D:\Visual Studio Projects\01. FreezingWeather\11. CoffeeShop\bin\Debug\net6.0\11. CoffeeShop.runtimeconfig.json
+D:\Visual Studio Projects\01. FreezingWeather\11. CoffeeShop\bin\Debug\net6.0\11. CoffeeShop.dll
+D:\Visual Studio Projects\01. FreezingWeather\11. CoffeeShop\bin\Debug\net6.0\11. CoffeeShop.pdb
+D:\Visual Studio Projects\01. FreezingWeather\11. CoffeeShop\obj\Debug\net6.0\11. CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\01. FreezingWeather\11. CoffeeShop\obj\Debug\net6.0\11. CoffeeShop.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\01. FreezingWeather\11. CoffeeShop\obj\Debug\net6.0\11. CoffeeShop.AssemblyInfo.cs
+D:\Visual Studio Projects\01. FreezingWeather\11. CoffeeShop\obj\Debug\net6.0\11. CoffeeShop.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\01. FreezingWeather\11. CoffeeShop\obj\Debug\net6.0\11. CoffeeShop.dll
+D:\Visual Studio Projects\01. FreezingWeather\11. CoffeeShop\obj\Debug\net6.0\refint\11. CoffeeShop.dll
+D:\Visual Studio Projects\01. FreezingWeather\11. CoffeeShop\obj\Debug\net6.0\11. CoffeeShop.pdb
+D:\Visual Studio Projects\01. FreezingWeather\11. CoffeeShop\obj\Debug\net6.0\11. CoffeeShop.genruntimeconfig.cache
+D:\Visual Studio Projects\01. FreezingWeather\11. CoffeeShop\obj\Debug\net6.0\ref\11. CoffeeShop.dll

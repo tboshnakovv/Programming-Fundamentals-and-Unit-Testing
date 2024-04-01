@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\01. FreezingWeather\02. EvenOrOdd\bin\Debug\net6.0\02. EvenOrOdd.exe
+D:\Visual Studio Projects\01. FreezingWeather\02. EvenOrOdd\bin\Debug\net6.0\02. EvenOrOdd.deps.json
+D:\Visual Studio Projects\01. FreezingWeather\02. EvenOrOdd\bin\Debug\net6.0\02. EvenOrOdd.runtimeconfig.json
+D:\Visual Studio Projects\01. FreezingWeather\02. EvenOrOdd\bin\Debug\net6.0\02. EvenOrOdd.dll
+D:\Visual Studio Projects\01. FreezingWeather\02. EvenOrOdd\bin\Debug\net6.0\02. EvenOrOdd.pdb
+D:\Visual Studio Projects\01. FreezingWeather\02. EvenOrOdd\obj\Debug\net6.0\02. EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\01. FreezingWeather\02. EvenOrOdd\obj\Debug\net6.0\02. EvenOrOdd.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\01. FreezingWeather\02. EvenOrOdd\obj\Debug\net6.0\02. EvenOrOdd.AssemblyInfo.cs
+D:\Visual Studio Projects\01. FreezingWeather\02. EvenOrOdd\obj\Debug\net6.0\02. EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\01. FreezingWeather\02. EvenOrOdd\obj\Debug\net6.0\02. EvenOrOdd.dll
+D:\Visual Studio Projects\01. FreezingWeather\02. EvenOrOdd\obj\Debug\net6.0\refint\02. EvenOrOdd.dll
+D:\Visual Studio Projects\01. FreezingWeather\02. EvenOrOdd\obj\Debug\net6.0\02. EvenOrOdd.pdb
+D:\Visual Studio Projects\01. FreezingWeather\02. EvenOrOdd\obj\Debug\net6.0\02. EvenOrOdd.genruntimeconfig.cache
+D:\Visual Studio Projects\01. FreezingWeather\02. EvenOrOdd\obj\Debug\net6.0\ref\02. EvenOrOdd.dll

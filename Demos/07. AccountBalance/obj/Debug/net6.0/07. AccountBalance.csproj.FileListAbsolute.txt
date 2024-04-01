@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\Demos\07. AccountBalance\obj\Debug\net6.0\07. AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Demos\07. AccountBalance\obj\Debug\net6.0\07. AccountBalance.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Demos\07. AccountBalance\obj\Debug\net6.0\07. AccountBalance.AssemblyInfo.cs
+D:\Visual Studio Projects\Demos\07. AccountBalance\obj\Debug\net6.0\07. AccountBalance.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Demos\07. AccountBalance\bin\Debug\net6.0\07. AccountBalance.exe
+D:\Visual Studio Projects\Demos\07. AccountBalance\bin\Debug\net6.0\07. AccountBalance.deps.json
+D:\Visual Studio Projects\Demos\07. AccountBalance\bin\Debug\net6.0\07. AccountBalance.runtimeconfig.json
+D:\Visual Studio Projects\Demos\07. AccountBalance\bin\Debug\net6.0\07. AccountBalance.dll
+D:\Visual Studio Projects\Demos\07. AccountBalance\bin\Debug\net6.0\07. AccountBalance.pdb
+D:\Visual Studio Projects\Demos\07. AccountBalance\obj\Debug\net6.0\07. AccountBalance.dll
+D:\Visual Studio Projects\Demos\07. AccountBalance\obj\Debug\net6.0\refint\07. AccountBalance.dll
+D:\Visual Studio Projects\Demos\07. AccountBalance\obj\Debug\net6.0\07. AccountBalance.pdb
+D:\Visual Studio Projects\Demos\07. AccountBalance\obj\Debug\net6.0\07. AccountBalance.genruntimeconfig.cache
+D:\Visual Studio Projects\Demos\07. AccountBalance\obj\Debug\net6.0\ref\07. AccountBalance.dll

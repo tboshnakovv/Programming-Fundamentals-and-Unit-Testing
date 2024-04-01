@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\15. Methods\09.1 Orders\bin\Debug\net6.0\09.1 Orders.exe
+D:\Visual Studio Projects\15. Methods\09.1 Orders\bin\Debug\net6.0\09.1 Orders.deps.json
+D:\Visual Studio Projects\15. Methods\09.1 Orders\bin\Debug\net6.0\09.1 Orders.runtimeconfig.json
+D:\Visual Studio Projects\15. Methods\09.1 Orders\bin\Debug\net6.0\09.1 Orders.dll
+D:\Visual Studio Projects\15. Methods\09.1 Orders\bin\Debug\net6.0\09.1 Orders.pdb
+D:\Visual Studio Projects\15. Methods\09.1 Orders\obj\Debug\net6.0\09.1 Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\15. Methods\09.1 Orders\obj\Debug\net6.0\09.1 Orders.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\15. Methods\09.1 Orders\obj\Debug\net6.0\09.1 Orders.AssemblyInfo.cs
+D:\Visual Studio Projects\15. Methods\09.1 Orders\obj\Debug\net6.0\09.1 Orders.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\15. Methods\09.1 Orders\obj\Debug\net6.0\09.1 Orders.dll
+D:\Visual Studio Projects\15. Methods\09.1 Orders\obj\Debug\net6.0\refint\09.1 Orders.dll
+D:\Visual Studio Projects\15. Methods\09.1 Orders\obj\Debug\net6.0\09.1 Orders.pdb
+D:\Visual Studio Projects\15. Methods\09.1 Orders\obj\Debug\net6.0\09.1 Orders.genruntimeconfig.cache
+D:\Visual Studio Projects\15. Methods\09.1 Orders\obj\Debug\net6.0\ref\09.1 Orders.dll

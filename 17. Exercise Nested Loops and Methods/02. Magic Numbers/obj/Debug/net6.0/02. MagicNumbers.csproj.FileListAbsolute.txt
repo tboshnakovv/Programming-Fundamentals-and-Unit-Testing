@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\02. Magic Numbers\bin\Debug\net6.0\02. MagicNumbers.exe
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\02. Magic Numbers\bin\Debug\net6.0\02. MagicNumbers.deps.json
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\02. Magic Numbers\bin\Debug\net6.0\02. MagicNumbers.runtimeconfig.json
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\02. Magic Numbers\bin\Debug\net6.0\02. MagicNumbers.dll
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\02. Magic Numbers\bin\Debug\net6.0\02. MagicNumbers.pdb
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\02. MagicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\02. MagicNumbers.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\02. MagicNumbers.AssemblyInfo.cs
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\02. MagicNumbers.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\02. MagicNumbers.dll
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\refint\02. MagicNumbers.dll
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\02. MagicNumbers.pdb
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\02. MagicNumbers.genruntimeconfig.cache
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\02. Magic Numbers\obj\Debug\net6.0\ref\02. MagicNumbers.dll

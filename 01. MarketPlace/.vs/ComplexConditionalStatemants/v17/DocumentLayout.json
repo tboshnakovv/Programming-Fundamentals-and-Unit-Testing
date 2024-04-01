@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio Projects\\Programming Fundamentals and Unit Testing - September 2023\\01. MarketPlace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D51A0836-4243-4DE2-84BB-9F77C3E627F6}|01. MarketPlace\\01. MarketPlace.csproj|d:\\visual studio projects\\programming fundamentals and unit testing - september 2023\\01. marketplace\\01. marketplace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51A0836-4243-4DE2-84BB-9F77C3E627F6}|01. MarketPlace\\01. MarketPlace.csproj|solutionrelative:01. marketplace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio Projects\\Programming Fundamentals and Unit Testing - September 2023\\01. MarketPlace\\01. MarketPlace\\Program.cs",
+              "RelativeDocumentMoniker": "01. MarketPlace\\Program.cs",
+              "ToolTip": "D:\\Visual Studio Projects\\Programming Fundamentals and Unit Testing - September 2023\\01. MarketPlace\\01. MarketPlace\\Program.cs",
+              "RelativeToolTip": "01. MarketPlace\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:02:43.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

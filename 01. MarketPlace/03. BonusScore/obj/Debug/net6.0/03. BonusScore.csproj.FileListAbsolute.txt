@@ -1,0 +1,4 @@
+D:\Visual Studio Projects\01. MarketPlace\03. BonusScore\obj\Debug\net6.0\03. BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\01. MarketPlace\03. BonusScore\obj\Debug\net6.0\03. BonusScore.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\01. MarketPlace\03. BonusScore\obj\Debug\net6.0\03. BonusScore.AssemblyInfo.cs
+D:\Visual Studio Projects\01. MarketPlace\03. BonusScore\obj\Debug\net6.0\03. BonusScore.csproj.CoreCompileInputs.cache

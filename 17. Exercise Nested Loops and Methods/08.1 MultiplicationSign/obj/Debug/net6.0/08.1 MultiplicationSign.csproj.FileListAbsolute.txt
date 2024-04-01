@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\08.1 MultiplicationSign\bin\Debug\net6.0\08.1 MultiplicationSign.exe
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\08.1 MultiplicationSign\bin\Debug\net6.0\08.1 MultiplicationSign.deps.json
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\08.1 MultiplicationSign\bin\Debug\net6.0\08.1 MultiplicationSign.runtimeconfig.json
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\08.1 MultiplicationSign\bin\Debug\net6.0\08.1 MultiplicationSign.dll
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\08.1 MultiplicationSign\bin\Debug\net6.0\08.1 MultiplicationSign.pdb
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\08.1 MultiplicationSign\obj\Debug\net6.0\08.1 MultiplicationSign.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\08.1 MultiplicationSign\obj\Debug\net6.0\08.1 MultiplicationSign.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\08.1 MultiplicationSign\obj\Debug\net6.0\08.1 MultiplicationSign.AssemblyInfo.cs
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\08.1 MultiplicationSign\obj\Debug\net6.0\08.1 MultiplicationSign.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\08.1 MultiplicationSign\obj\Debug\net6.0\08.1 MultiplicationSign.dll
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\08.1 MultiplicationSign\obj\Debug\net6.0\refint\08.1 MultiplicationSign.dll
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\08.1 MultiplicationSign\obj\Debug\net6.0\08.1 MultiplicationSign.pdb
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\08.1 MultiplicationSign\obj\Debug\net6.0\08.1 MultiplicationSign.genruntimeconfig.cache
+D:\Visual Studio Projects\17. Exercise Nested Loops and Methods\08.1 MultiplicationSign\obj\Debug\net6.0\ref\08.1 MultiplicationSign.dll

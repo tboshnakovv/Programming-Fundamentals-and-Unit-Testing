@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\UsdToBgn\UsdToBgn\bin\Debug\net6.0\UsdToBgn.exe
+D:\Visual Studio Projects\UsdToBgn\UsdToBgn\bin\Debug\net6.0\UsdToBgn.deps.json
+D:\Visual Studio Projects\UsdToBgn\UsdToBgn\bin\Debug\net6.0\UsdToBgn.runtimeconfig.json
+D:\Visual Studio Projects\UsdToBgn\UsdToBgn\bin\Debug\net6.0\UsdToBgn.dll
+D:\Visual Studio Projects\UsdToBgn\UsdToBgn\bin\Debug\net6.0\UsdToBgn.pdb
+D:\Visual Studio Projects\UsdToBgn\UsdToBgn\obj\Debug\net6.0\UsdToBgn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\UsdToBgn\UsdToBgn\obj\Debug\net6.0\UsdToBgn.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\UsdToBgn\UsdToBgn\obj\Debug\net6.0\UsdToBgn.AssemblyInfo.cs
+D:\Visual Studio Projects\UsdToBgn\UsdToBgn\obj\Debug\net6.0\UsdToBgn.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\UsdToBgn\UsdToBgn\obj\Debug\net6.0\UsdToBgn.dll
+D:\Visual Studio Projects\UsdToBgn\UsdToBgn\obj\Debug\net6.0\refint\UsdToBgn.dll
+D:\Visual Studio Projects\UsdToBgn\UsdToBgn\obj\Debug\net6.0\UsdToBgn.pdb
+D:\Visual Studio Projects\UsdToBgn\UsdToBgn\obj\Debug\net6.0\UsdToBgn.genruntimeconfig.cache
+D:\Visual Studio Projects\UsdToBgn\UsdToBgn\obj\Debug\net6.0\ref\UsdToBgn.dll

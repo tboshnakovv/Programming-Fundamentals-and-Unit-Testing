@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\01.NumbersEndingIn7\02.ElementThatEqualsToTheSumOfOthers\bin\Debug\net6.0\02.ElementThatEqualsToTheSumOfOthers.exe
+D:\Visual Studio Projects\01.NumbersEndingIn7\02.ElementThatEqualsToTheSumOfOthers\bin\Debug\net6.0\02.ElementThatEqualsToTheSumOfOthers.deps.json
+D:\Visual Studio Projects\01.NumbersEndingIn7\02.ElementThatEqualsToTheSumOfOthers\bin\Debug\net6.0\02.ElementThatEqualsToTheSumOfOthers.runtimeconfig.json
+D:\Visual Studio Projects\01.NumbersEndingIn7\02.ElementThatEqualsToTheSumOfOthers\bin\Debug\net6.0\02.ElementThatEqualsToTheSumOfOthers.dll
+D:\Visual Studio Projects\01.NumbersEndingIn7\02.ElementThatEqualsToTheSumOfOthers\bin\Debug\net6.0\02.ElementThatEqualsToTheSumOfOthers.pdb
+D:\Visual Studio Projects\01.NumbersEndingIn7\02.ElementThatEqualsToTheSumOfOthers\obj\Debug\net6.0\02.ElementThatEqualsToTheSumOfOthers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\01.NumbersEndingIn7\02.ElementThatEqualsToTheSumOfOthers\obj\Debug\net6.0\02.ElementThatEqualsToTheSumOfOthers.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\01.NumbersEndingIn7\02.ElementThatEqualsToTheSumOfOthers\obj\Debug\net6.0\02.ElementThatEqualsToTheSumOfOthers.AssemblyInfo.cs
+D:\Visual Studio Projects\01.NumbersEndingIn7\02.ElementThatEqualsToTheSumOfOthers\obj\Debug\net6.0\02.ElementThatEqualsToTheSumOfOthers.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\01.NumbersEndingIn7\02.ElementThatEqualsToTheSumOfOthers\obj\Debug\net6.0\02.ElementThatEqualsToTheSumOfOthers.dll
+D:\Visual Studio Projects\01.NumbersEndingIn7\02.ElementThatEqualsToTheSumOfOthers\obj\Debug\net6.0\refint\02.ElementThatEqualsToTheSumOfOthers.dll
+D:\Visual Studio Projects\01.NumbersEndingIn7\02.ElementThatEqualsToTheSumOfOthers\obj\Debug\net6.0\02.ElementThatEqualsToTheSumOfOthers.pdb
+D:\Visual Studio Projects\01.NumbersEndingIn7\02.ElementThatEqualsToTheSumOfOthers\obj\Debug\net6.0\02.ElementThatEqualsToTheSumOfOthers.genruntimeconfig.cache
+D:\Visual Studio Projects\01.NumbersEndingIn7\02.ElementThatEqualsToTheSumOfOthers\obj\Debug\net6.0\ref\02.ElementThatEqualsToTheSumOfOthers.dll

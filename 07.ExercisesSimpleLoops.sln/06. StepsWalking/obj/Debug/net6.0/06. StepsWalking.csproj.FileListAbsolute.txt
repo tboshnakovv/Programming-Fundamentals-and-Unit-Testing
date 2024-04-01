@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\01.NumbersEndingIn7\06. StepsWalking\bin\Debug\net6.0\06. StepsWalking.exe
+D:\Visual Studio Projects\01.NumbersEndingIn7\06. StepsWalking\bin\Debug\net6.0\06. StepsWalking.deps.json
+D:\Visual Studio Projects\01.NumbersEndingIn7\06. StepsWalking\bin\Debug\net6.0\06. StepsWalking.runtimeconfig.json
+D:\Visual Studio Projects\01.NumbersEndingIn7\06. StepsWalking\bin\Debug\net6.0\06. StepsWalking.dll
+D:\Visual Studio Projects\01.NumbersEndingIn7\06. StepsWalking\bin\Debug\net6.0\06. StepsWalking.pdb
+D:\Visual Studio Projects\01.NumbersEndingIn7\06. StepsWalking\obj\Debug\net6.0\06. StepsWalking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\01.NumbersEndingIn7\06. StepsWalking\obj\Debug\net6.0\06. StepsWalking.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\01.NumbersEndingIn7\06. StepsWalking\obj\Debug\net6.0\06. StepsWalking.AssemblyInfo.cs
+D:\Visual Studio Projects\01.NumbersEndingIn7\06. StepsWalking\obj\Debug\net6.0\06. StepsWalking.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\01.NumbersEndingIn7\06. StepsWalking\obj\Debug\net6.0\06. StepsWalking.dll
+D:\Visual Studio Projects\01.NumbersEndingIn7\06. StepsWalking\obj\Debug\net6.0\refint\06. StepsWalking.dll
+D:\Visual Studio Projects\01.NumbersEndingIn7\06. StepsWalking\obj\Debug\net6.0\06. StepsWalking.pdb
+D:\Visual Studio Projects\01.NumbersEndingIn7\06. StepsWalking\obj\Debug\net6.0\06. StepsWalking.genruntimeconfig.cache
+D:\Visual Studio Projects\01.NumbersEndingIn7\06. StepsWalking\obj\Debug\net6.0\ref\06. StepsWalking.dll

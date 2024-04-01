@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\FirstHelloWorldApp\03. SquareArea\bin\Debug\net6.0\03. SquareArea.exe
+D:\Visual Studio Projects\FirstHelloWorldApp\03. SquareArea\bin\Debug\net6.0\03. SquareArea.deps.json
+D:\Visual Studio Projects\FirstHelloWorldApp\03. SquareArea\bin\Debug\net6.0\03. SquareArea.runtimeconfig.json
+D:\Visual Studio Projects\FirstHelloWorldApp\03. SquareArea\bin\Debug\net6.0\03. SquareArea.dll
+D:\Visual Studio Projects\FirstHelloWorldApp\03. SquareArea\bin\Debug\net6.0\03. SquareArea.pdb
+D:\Visual Studio Projects\FirstHelloWorldApp\03. SquareArea\obj\Debug\net6.0\03. SquareArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\FirstHelloWorldApp\03. SquareArea\obj\Debug\net6.0\03. SquareArea.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\FirstHelloWorldApp\03. SquareArea\obj\Debug\net6.0\03. SquareArea.AssemblyInfo.cs
+D:\Visual Studio Projects\FirstHelloWorldApp\03. SquareArea\obj\Debug\net6.0\03. SquareArea.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FirstHelloWorldApp\03. SquareArea\obj\Debug\net6.0\03. SquareArea.dll
+D:\Visual Studio Projects\FirstHelloWorldApp\03. SquareArea\obj\Debug\net6.0\refint\03. SquareArea.dll
+D:\Visual Studio Projects\FirstHelloWorldApp\03. SquareArea\obj\Debug\net6.0\03. SquareArea.pdb
+D:\Visual Studio Projects\FirstHelloWorldApp\03. SquareArea\obj\Debug\net6.0\03. SquareArea.genruntimeconfig.cache
+D:\Visual Studio Projects\FirstHelloWorldApp\03. SquareArea\obj\Debug\net6.0\ref\03. SquareArea.dll

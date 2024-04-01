@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\Demos\02.NumbersFromOneToNReversed\bin\Debug\net6.0\02.NumbersFromOneToNReversed.exe
+D:\Visual Studio Projects\Demos\02.NumbersFromOneToNReversed\bin\Debug\net6.0\02.NumbersFromOneToNReversed.deps.json
+D:\Visual Studio Projects\Demos\02.NumbersFromOneToNReversed\bin\Debug\net6.0\02.NumbersFromOneToNReversed.runtimeconfig.json
+D:\Visual Studio Projects\Demos\02.NumbersFromOneToNReversed\bin\Debug\net6.0\02.NumbersFromOneToNReversed.dll
+D:\Visual Studio Projects\Demos\02.NumbersFromOneToNReversed\bin\Debug\net6.0\02.NumbersFromOneToNReversed.pdb
+D:\Visual Studio Projects\Demos\02.NumbersFromOneToNReversed\obj\Debug\net6.0\02.NumbersFromOneToNReversed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Demos\02.NumbersFromOneToNReversed\obj\Debug\net6.0\02.NumbersFromOneToNReversed.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Demos\02.NumbersFromOneToNReversed\obj\Debug\net6.0\02.NumbersFromOneToNReversed.AssemblyInfo.cs
+D:\Visual Studio Projects\Demos\02.NumbersFromOneToNReversed\obj\Debug\net6.0\02.NumbersFromOneToNReversed.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Demos\02.NumbersFromOneToNReversed\obj\Debug\net6.0\02.NumbersFromOneToNReversed.dll
+D:\Visual Studio Projects\Demos\02.NumbersFromOneToNReversed\obj\Debug\net6.0\refint\02.NumbersFromOneToNReversed.dll
+D:\Visual Studio Projects\Demos\02.NumbersFromOneToNReversed\obj\Debug\net6.0\02.NumbersFromOneToNReversed.pdb
+D:\Visual Studio Projects\Demos\02.NumbersFromOneToNReversed\obj\Debug\net6.0\02.NumbersFromOneToNReversed.genruntimeconfig.cache
+D:\Visual Studio Projects\Demos\02.NumbersFromOneToNReversed\obj\Debug\net6.0\ref\02.NumbersFromOneToNReversed.dll

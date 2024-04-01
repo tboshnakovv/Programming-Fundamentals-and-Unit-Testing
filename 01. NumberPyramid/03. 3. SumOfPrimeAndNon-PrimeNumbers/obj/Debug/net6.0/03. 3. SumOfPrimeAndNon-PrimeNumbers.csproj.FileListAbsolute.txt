@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\01. NumberPyramid\03. 3. SumOfPrimeAndNon-PrimeNumbers\bin\Debug\net6.0\03. 3. SumOfPrimeAndNon-PrimeNumbers.exe
+D:\Visual Studio Projects\01. NumberPyramid\03. 3. SumOfPrimeAndNon-PrimeNumbers\bin\Debug\net6.0\03. 3. SumOfPrimeAndNon-PrimeNumbers.deps.json
+D:\Visual Studio Projects\01. NumberPyramid\03. 3. SumOfPrimeAndNon-PrimeNumbers\bin\Debug\net6.0\03. 3. SumOfPrimeAndNon-PrimeNumbers.runtimeconfig.json
+D:\Visual Studio Projects\01. NumberPyramid\03. 3. SumOfPrimeAndNon-PrimeNumbers\bin\Debug\net6.0\03. 3. SumOfPrimeAndNon-PrimeNumbers.dll
+D:\Visual Studio Projects\01. NumberPyramid\03. 3. SumOfPrimeAndNon-PrimeNumbers\bin\Debug\net6.0\03. 3. SumOfPrimeAndNon-PrimeNumbers.pdb
+D:\Visual Studio Projects\01. NumberPyramid\03. 3. SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\03. 3. SumOfPrimeAndNon-PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\01. NumberPyramid\03. 3. SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\03. 3. SumOfPrimeAndNon-PrimeNumbers.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\01. NumberPyramid\03. 3. SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\03. 3. SumOfPrimeAndNon-PrimeNumbers.AssemblyInfo.cs
+D:\Visual Studio Projects\01. NumberPyramid\03. 3. SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\03. 3. SumOfPrimeAndNon-PrimeNumbers.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\01. NumberPyramid\03. 3. SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\03. 3. SumOfPrimeAndNon-PrimeNumbers.dll
+D:\Visual Studio Projects\01. NumberPyramid\03. 3. SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\refint\03. 3. SumOfPrimeAndNon-PrimeNumbers.dll
+D:\Visual Studio Projects\01. NumberPyramid\03. 3. SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\03. 3. SumOfPrimeAndNon-PrimeNumbers.pdb
+D:\Visual Studio Projects\01. NumberPyramid\03. 3. SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\03. 3. SumOfPrimeAndNon-PrimeNumbers.genruntimeconfig.cache
+D:\Visual Studio Projects\01. NumberPyramid\03. 3. SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\ref\03. 3. SumOfPrimeAndNon-PrimeNumbers.dll

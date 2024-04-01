@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\FirstHelloWorldApp\04.IncToCentimetreConverter\obj\Debug\net6.0\04.IncToCentimetreConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\FirstHelloWorldApp\04.IncToCentimetreConverter\obj\Debug\net6.0\04.IncToCentimetreConverter.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\FirstHelloWorldApp\04.IncToCentimetreConverter\obj\Debug\net6.0\04.IncToCentimetreConverter.AssemblyInfo.cs
+D:\Visual Studio Projects\FirstHelloWorldApp\04.IncToCentimetreConverter\obj\Debug\net6.0\04.IncToCentimetreConverter.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FirstHelloWorldApp\04.IncToCentimetreConverter\bin\Debug\net6.0\04.IncToCentimetreConverter.exe
+D:\Visual Studio Projects\FirstHelloWorldApp\04.IncToCentimetreConverter\bin\Debug\net6.0\04.IncToCentimetreConverter.deps.json
+D:\Visual Studio Projects\FirstHelloWorldApp\04.IncToCentimetreConverter\bin\Debug\net6.0\04.IncToCentimetreConverter.runtimeconfig.json
+D:\Visual Studio Projects\FirstHelloWorldApp\04.IncToCentimetreConverter\bin\Debug\net6.0\04.IncToCentimetreConverter.dll
+D:\Visual Studio Projects\FirstHelloWorldApp\04.IncToCentimetreConverter\bin\Debug\net6.0\04.IncToCentimetreConverter.pdb
+D:\Visual Studio Projects\FirstHelloWorldApp\04.IncToCentimetreConverter\obj\Debug\net6.0\04.IncToCentimetreConverter.dll
+D:\Visual Studio Projects\FirstHelloWorldApp\04.IncToCentimetreConverter\obj\Debug\net6.0\refint\04.IncToCentimetreConverter.dll
+D:\Visual Studio Projects\FirstHelloWorldApp\04.IncToCentimetreConverter\obj\Debug\net6.0\04.IncToCentimetreConverter.pdb
+D:\Visual Studio Projects\FirstHelloWorldApp\04.IncToCentimetreConverter\obj\Debug\net6.0\04.IncToCentimetreConverter.genruntimeconfig.cache
+D:\Visual Studio Projects\FirstHelloWorldApp\04.IncToCentimetreConverter\obj\Debug\net6.0\ref\04.IncToCentimetreConverter.dll

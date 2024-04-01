@@ -1,0 +1,14 @@
+C:\Users\sanny\source\repos\ExamPreparation3\01. EnglishNameOfEachDigit\bin\Debug\net6.0\01. EnglishNameOfEachDigit.exe
+C:\Users\sanny\source\repos\ExamPreparation3\01. EnglishNameOfEachDigit\bin\Debug\net6.0\01. EnglishNameOfEachDigit.deps.json
+C:\Users\sanny\source\repos\ExamPreparation3\01. EnglishNameOfEachDigit\bin\Debug\net6.0\01. EnglishNameOfEachDigit.runtimeconfig.json
+C:\Users\sanny\source\repos\ExamPreparation3\01. EnglishNameOfEachDigit\bin\Debug\net6.0\01. EnglishNameOfEachDigit.dll
+C:\Users\sanny\source\repos\ExamPreparation3\01. EnglishNameOfEachDigit\bin\Debug\net6.0\01. EnglishNameOfEachDigit.pdb
+C:\Users\sanny\source\repos\ExamPreparation3\01. EnglishNameOfEachDigit\obj\Debug\net6.0\01. EnglishNameOfEachDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanny\source\repos\ExamPreparation3\01. EnglishNameOfEachDigit\obj\Debug\net6.0\01. EnglishNameOfEachDigit.AssemblyInfoInputs.cache
+C:\Users\sanny\source\repos\ExamPreparation3\01. EnglishNameOfEachDigit\obj\Debug\net6.0\01. EnglishNameOfEachDigit.AssemblyInfo.cs
+C:\Users\sanny\source\repos\ExamPreparation3\01. EnglishNameOfEachDigit\obj\Debug\net6.0\01. EnglishNameOfEachDigit.csproj.CoreCompileInputs.cache
+C:\Users\sanny\source\repos\ExamPreparation3\01. EnglishNameOfEachDigit\obj\Debug\net6.0\01. EnglishNameOfEachDigit.dll
+C:\Users\sanny\source\repos\ExamPreparation3\01. EnglishNameOfEachDigit\obj\Debug\net6.0\refint\01. EnglishNameOfEachDigit.dll
+C:\Users\sanny\source\repos\ExamPreparation3\01. EnglishNameOfEachDigit\obj\Debug\net6.0\01. EnglishNameOfEachDigit.pdb
+C:\Users\sanny\source\repos\ExamPreparation3\01. EnglishNameOfEachDigit\obj\Debug\net6.0\01. EnglishNameOfEachDigit.genruntimeconfig.cache
+C:\Users\sanny\source\repos\ExamPreparation3\01. EnglishNameOfEachDigit\obj\Debug\net6.0\ref\01. EnglishNameOfEachDigit.dll

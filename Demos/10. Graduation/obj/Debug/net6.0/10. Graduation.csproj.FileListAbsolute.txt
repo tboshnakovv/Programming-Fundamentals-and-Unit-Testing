@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\Demos\10. Graduation\bin\Debug\net6.0\10. Graduation.exe
+D:\Visual Studio Projects\Demos\10. Graduation\bin\Debug\net6.0\10. Graduation.deps.json
+D:\Visual Studio Projects\Demos\10. Graduation\bin\Debug\net6.0\10. Graduation.runtimeconfig.json
+D:\Visual Studio Projects\Demos\10. Graduation\bin\Debug\net6.0\10. Graduation.dll
+D:\Visual Studio Projects\Demos\10. Graduation\bin\Debug\net6.0\10. Graduation.pdb
+D:\Visual Studio Projects\Demos\10. Graduation\obj\Debug\net6.0\10. Graduation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Demos\10. Graduation\obj\Debug\net6.0\10. Graduation.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Demos\10. Graduation\obj\Debug\net6.0\10. Graduation.AssemblyInfo.cs
+D:\Visual Studio Projects\Demos\10. Graduation\obj\Debug\net6.0\10. Graduation.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Demos\10. Graduation\obj\Debug\net6.0\10. Graduation.dll
+D:\Visual Studio Projects\Demos\10. Graduation\obj\Debug\net6.0\refint\10. Graduation.dll
+D:\Visual Studio Projects\Demos\10. Graduation\obj\Debug\net6.0\10. Graduation.pdb
+D:\Visual Studio Projects\Demos\10. Graduation\obj\Debug\net6.0\10. Graduation.genruntimeconfig.cache
+D:\Visual Studio Projects\Demos\10. Graduation\obj\Debug\net6.0\ref\10. Graduation.dll

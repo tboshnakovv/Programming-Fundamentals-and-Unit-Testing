@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\12. ForLoopLection\00. Demo\bin\Debug\net6.0\00. Demo.exe
+D:\Visual Studio Projects\12. ForLoopLection\00. Demo\bin\Debug\net6.0\00. Demo.deps.json
+D:\Visual Studio Projects\12. ForLoopLection\00. Demo\bin\Debug\net6.0\00. Demo.runtimeconfig.json
+D:\Visual Studio Projects\12. ForLoopLection\00. Demo\bin\Debug\net6.0\00. Demo.dll
+D:\Visual Studio Projects\12. ForLoopLection\00. Demo\bin\Debug\net6.0\00. Demo.pdb
+D:\Visual Studio Projects\12. ForLoopLection\00. Demo\obj\Debug\net6.0\00. Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\12. ForLoopLection\00. Demo\obj\Debug\net6.0\00. Demo.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\12. ForLoopLection\00. Demo\obj\Debug\net6.0\00. Demo.AssemblyInfo.cs
+D:\Visual Studio Projects\12. ForLoopLection\00. Demo\obj\Debug\net6.0\00. Demo.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\12. ForLoopLection\00. Demo\obj\Debug\net6.0\00. Demo.dll
+D:\Visual Studio Projects\12. ForLoopLection\00. Demo\obj\Debug\net6.0\refint\00. Demo.dll
+D:\Visual Studio Projects\12. ForLoopLection\00. Demo\obj\Debug\net6.0\00. Demo.pdb
+D:\Visual Studio Projects\12. ForLoopLection\00. Demo\obj\Debug\net6.0\00. Demo.genruntimeconfig.cache
+D:\Visual Studio Projects\12. ForLoopLection\00. Demo\obj\Debug\net6.0\ref\00. Demo.dll

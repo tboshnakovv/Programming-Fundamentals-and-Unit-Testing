@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\18. Arrays\01. DayOfWeek\bin\Debug\net6.0\01. DayOfWeek.exe
+D:\Visual Studio Projects\18. Arrays\01. DayOfWeek\bin\Debug\net6.0\01. DayOfWeek.deps.json
+D:\Visual Studio Projects\18. Arrays\01. DayOfWeek\bin\Debug\net6.0\01. DayOfWeek.runtimeconfig.json
+D:\Visual Studio Projects\18. Arrays\01. DayOfWeek\bin\Debug\net6.0\01. DayOfWeek.dll
+D:\Visual Studio Projects\18. Arrays\01. DayOfWeek\bin\Debug\net6.0\01. DayOfWeek.pdb
+D:\Visual Studio Projects\18. Arrays\01. DayOfWeek\obj\Debug\net6.0\01. DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\18. Arrays\01. DayOfWeek\obj\Debug\net6.0\01. DayOfWeek.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\18. Arrays\01. DayOfWeek\obj\Debug\net6.0\01. DayOfWeek.AssemblyInfo.cs
+D:\Visual Studio Projects\18. Arrays\01. DayOfWeek\obj\Debug\net6.0\01. DayOfWeek.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\18. Arrays\01. DayOfWeek\obj\Debug\net6.0\01. DayOfWeek.dll
+D:\Visual Studio Projects\18. Arrays\01. DayOfWeek\obj\Debug\net6.0\refint\01. DayOfWeek.dll
+D:\Visual Studio Projects\18. Arrays\01. DayOfWeek\obj\Debug\net6.0\01. DayOfWeek.pdb
+D:\Visual Studio Projects\18. Arrays\01. DayOfWeek\obj\Debug\net6.0\01. DayOfWeek.genruntimeconfig.cache
+D:\Visual Studio Projects\18. Arrays\01. DayOfWeek\obj\Debug\net6.0\ref\01. DayOfWeek.dll

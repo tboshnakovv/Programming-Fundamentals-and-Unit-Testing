@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\15. Nested Loops\07. SumOfDigitsCalculator\bin\Debug\net6.0\07. SumOfDigitsCalculator.exe
+D:\Visual Studio Projects\15. Nested Loops\07. SumOfDigitsCalculator\bin\Debug\net6.0\07. SumOfDigitsCalculator.deps.json
+D:\Visual Studio Projects\15. Nested Loops\07. SumOfDigitsCalculator\bin\Debug\net6.0\07. SumOfDigitsCalculator.runtimeconfig.json
+D:\Visual Studio Projects\15. Nested Loops\07. SumOfDigitsCalculator\bin\Debug\net6.0\07. SumOfDigitsCalculator.dll
+D:\Visual Studio Projects\15. Nested Loops\07. SumOfDigitsCalculator\bin\Debug\net6.0\07. SumOfDigitsCalculator.pdb
+D:\Visual Studio Projects\15. Nested Loops\07. SumOfDigitsCalculator\obj\Debug\net6.0\07. SumOfDigitsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\15. Nested Loops\07. SumOfDigitsCalculator\obj\Debug\net6.0\07. SumOfDigitsCalculator.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\15. Nested Loops\07. SumOfDigitsCalculator\obj\Debug\net6.0\07. SumOfDigitsCalculator.AssemblyInfo.cs
+D:\Visual Studio Projects\15. Nested Loops\07. SumOfDigitsCalculator\obj\Debug\net6.0\07. SumOfDigitsCalculator.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\15. Nested Loops\07. SumOfDigitsCalculator\obj\Debug\net6.0\07. SumOfDigitsCalculator.dll
+D:\Visual Studio Projects\15. Nested Loops\07. SumOfDigitsCalculator\obj\Debug\net6.0\refint\07. SumOfDigitsCalculator.dll
+D:\Visual Studio Projects\15. Nested Loops\07. SumOfDigitsCalculator\obj\Debug\net6.0\07. SumOfDigitsCalculator.pdb
+D:\Visual Studio Projects\15. Nested Loops\07. SumOfDigitsCalculator\obj\Debug\net6.0\07. SumOfDigitsCalculator.genruntimeconfig.cache
+D:\Visual Studio Projects\15. Nested Loops\07. SumOfDigitsCalculator\obj\Debug\net6.0\ref\07. SumOfDigitsCalculator.dll

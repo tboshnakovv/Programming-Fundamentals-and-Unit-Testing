@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\FirstHelloWorldApp\05. ExcellentGrade\bin\Debug\net6.0\05. ExcellentGrade.exe
+D:\Visual Studio Projects\FirstHelloWorldApp\05. ExcellentGrade\bin\Debug\net6.0\05. ExcellentGrade.deps.json
+D:\Visual Studio Projects\FirstHelloWorldApp\05. ExcellentGrade\bin\Debug\net6.0\05. ExcellentGrade.runtimeconfig.json
+D:\Visual Studio Projects\FirstHelloWorldApp\05. ExcellentGrade\bin\Debug\net6.0\05. ExcellentGrade.dll
+D:\Visual Studio Projects\FirstHelloWorldApp\05. ExcellentGrade\bin\Debug\net6.0\05. ExcellentGrade.pdb
+D:\Visual Studio Projects\FirstHelloWorldApp\05. ExcellentGrade\obj\Debug\net6.0\05. ExcellentGrade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\FirstHelloWorldApp\05. ExcellentGrade\obj\Debug\net6.0\05. ExcellentGrade.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\FirstHelloWorldApp\05. ExcellentGrade\obj\Debug\net6.0\05. ExcellentGrade.AssemblyInfo.cs
+D:\Visual Studio Projects\FirstHelloWorldApp\05. ExcellentGrade\obj\Debug\net6.0\05. ExcellentGrade.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\FirstHelloWorldApp\05. ExcellentGrade\obj\Debug\net6.0\05. ExcellentGrade.dll
+D:\Visual Studio Projects\FirstHelloWorldApp\05. ExcellentGrade\obj\Debug\net6.0\refint\05. ExcellentGrade.dll
+D:\Visual Studio Projects\FirstHelloWorldApp\05. ExcellentGrade\obj\Debug\net6.0\05. ExcellentGrade.pdb
+D:\Visual Studio Projects\FirstHelloWorldApp\05. ExcellentGrade\obj\Debug\net6.0\05. ExcellentGrade.genruntimeconfig.cache
+D:\Visual Studio Projects\FirstHelloWorldApp\05. ExcellentGrade\obj\Debug\net6.0\ref\05. ExcellentGrade.dll

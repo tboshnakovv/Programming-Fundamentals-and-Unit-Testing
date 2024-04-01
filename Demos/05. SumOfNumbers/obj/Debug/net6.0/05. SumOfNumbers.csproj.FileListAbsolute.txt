@@ -1,0 +1,4 @@
+D:\Visual Studio Projects\Demos\05. SumOfNumbers\obj\Debug\net6.0\05. SumOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Demos\05. SumOfNumbers\obj\Debug\net6.0\05. SumOfNumbers.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Demos\05. SumOfNumbers\obj\Debug\net6.0\05. SumOfNumbers.AssemblyInfo.cs
+D:\Visual Studio Projects\Demos\05. SumOfNumbers\obj\Debug\net6.0\05. SumOfNumbers.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\01.NumbersEndingIn7\07. Coins\bin\Debug\net6.0\07. Coins.exe
+D:\Visual Studio Projects\01.NumbersEndingIn7\07. Coins\bin\Debug\net6.0\07. Coins.deps.json
+D:\Visual Studio Projects\01.NumbersEndingIn7\07. Coins\bin\Debug\net6.0\07. Coins.runtimeconfig.json
+D:\Visual Studio Projects\01.NumbersEndingIn7\07. Coins\bin\Debug\net6.0\07. Coins.dll
+D:\Visual Studio Projects\01.NumbersEndingIn7\07. Coins\bin\Debug\net6.0\07. Coins.pdb
+D:\Visual Studio Projects\01.NumbersEndingIn7\07. Coins\obj\Debug\net6.0\07. Coins.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\01.NumbersEndingIn7\07. Coins\obj\Debug\net6.0\07. Coins.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\01.NumbersEndingIn7\07. Coins\obj\Debug\net6.0\07. Coins.AssemblyInfo.cs
+D:\Visual Studio Projects\01.NumbersEndingIn7\07. Coins\obj\Debug\net6.0\07. Coins.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\01.NumbersEndingIn7\07. Coins\obj\Debug\net6.0\07. Coins.dll
+D:\Visual Studio Projects\01.NumbersEndingIn7\07. Coins\obj\Debug\net6.0\refint\07. Coins.dll
+D:\Visual Studio Projects\01.NumbersEndingIn7\07. Coins\obj\Debug\net6.0\07. Coins.pdb
+D:\Visual Studio Projects\01.NumbersEndingIn7\07. Coins\obj\Debug\net6.0\07. Coins.genruntimeconfig.cache
+D:\Visual Studio Projects\01.NumbersEndingIn7\07. Coins\obj\Debug\net6.0\ref\07. Coins.dll

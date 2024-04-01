@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\01. FreezingWeather\7. SpeedInfo\bin\Debug\net6.0\7. SpeedInfo.exe
+D:\Visual Studio Projects\01. FreezingWeather\7. SpeedInfo\bin\Debug\net6.0\7. SpeedInfo.deps.json
+D:\Visual Studio Projects\01. FreezingWeather\7. SpeedInfo\bin\Debug\net6.0\7. SpeedInfo.runtimeconfig.json
+D:\Visual Studio Projects\01. FreezingWeather\7. SpeedInfo\bin\Debug\net6.0\7. SpeedInfo.dll
+D:\Visual Studio Projects\01. FreezingWeather\7. SpeedInfo\bin\Debug\net6.0\7. SpeedInfo.pdb
+D:\Visual Studio Projects\01. FreezingWeather\7. SpeedInfo\obj\Debug\net6.0\7. SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\01. FreezingWeather\7. SpeedInfo\obj\Debug\net6.0\7. SpeedInfo.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\01. FreezingWeather\7. SpeedInfo\obj\Debug\net6.0\7. SpeedInfo.AssemblyInfo.cs
+D:\Visual Studio Projects\01. FreezingWeather\7. SpeedInfo\obj\Debug\net6.0\7. SpeedInfo.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\01. FreezingWeather\7. SpeedInfo\obj\Debug\net6.0\7. SpeedInfo.dll
+D:\Visual Studio Projects\01. FreezingWeather\7. SpeedInfo\obj\Debug\net6.0\refint\7. SpeedInfo.dll
+D:\Visual Studio Projects\01. FreezingWeather\7. SpeedInfo\obj\Debug\net6.0\7. SpeedInfo.pdb
+D:\Visual Studio Projects\01. FreezingWeather\7. SpeedInfo\obj\Debug\net6.0\7. SpeedInfo.genruntimeconfig.cache
+D:\Visual Studio Projects\01. FreezingWeather\7. SpeedInfo\obj\Debug\net6.0\ref\7. SpeedInfo.dll

@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\01. NumberPyramid\02. 2. EqualSumsOfEvenAndOddPositions\bin\Debug\net6.0\02. EqualSumsOfEvenAndOddPositions.exe
+D:\Visual Studio Projects\01. NumberPyramid\02. 2. EqualSumsOfEvenAndOddPositions\bin\Debug\net6.0\02. EqualSumsOfEvenAndOddPositions.deps.json
+D:\Visual Studio Projects\01. NumberPyramid\02. 2. EqualSumsOfEvenAndOddPositions\bin\Debug\net6.0\02. EqualSumsOfEvenAndOddPositions.runtimeconfig.json
+D:\Visual Studio Projects\01. NumberPyramid\02. 2. EqualSumsOfEvenAndOddPositions\bin\Debug\net6.0\02. EqualSumsOfEvenAndOddPositions.dll
+D:\Visual Studio Projects\01. NumberPyramid\02. 2. EqualSumsOfEvenAndOddPositions\bin\Debug\net6.0\02. EqualSumsOfEvenAndOddPositions.pdb
+D:\Visual Studio Projects\01. NumberPyramid\02. 2. EqualSumsOfEvenAndOddPositions\obj\Debug\net6.0\02. EqualSumsOfEvenAndOddPositions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\01. NumberPyramid\02. 2. EqualSumsOfEvenAndOddPositions\obj\Debug\net6.0\02. EqualSumsOfEvenAndOddPositions.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\01. NumberPyramid\02. 2. EqualSumsOfEvenAndOddPositions\obj\Debug\net6.0\02. EqualSumsOfEvenAndOddPositions.AssemblyInfo.cs
+D:\Visual Studio Projects\01. NumberPyramid\02. 2. EqualSumsOfEvenAndOddPositions\obj\Debug\net6.0\02. EqualSumsOfEvenAndOddPositions.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\01. NumberPyramid\02. 2. EqualSumsOfEvenAndOddPositions\obj\Debug\net6.0\02. EqualSumsOfEvenAndOddPositions.dll
+D:\Visual Studio Projects\01. NumberPyramid\02. 2. EqualSumsOfEvenAndOddPositions\obj\Debug\net6.0\refint\02. EqualSumsOfEvenAndOddPositions.dll
+D:\Visual Studio Projects\01. NumberPyramid\02. 2. EqualSumsOfEvenAndOddPositions\obj\Debug\net6.0\02. EqualSumsOfEvenAndOddPositions.pdb
+D:\Visual Studio Projects\01. NumberPyramid\02. 2. EqualSumsOfEvenAndOddPositions\obj\Debug\net6.0\02. EqualSumsOfEvenAndOddPositions.genruntimeconfig.cache
+D:\Visual Studio Projects\01. NumberPyramid\02. 2. EqualSumsOfEvenAndOddPositions\obj\Debug\net6.0\ref\02. EqualSumsOfEvenAndOddPositions.dll
